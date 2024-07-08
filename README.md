@@ -26,8 +26,8 @@ My journey in engineering has been driven by a passion for innovation and a knac
 ## 📜 Certifications
 
 - **TOEIC**: Scored a perfect 990/990 => C1 Advanced
-- **OS Basics Certificate**: Covered Windows, Linux, and mobile operating systems
-- **
+- **CISCO,OS Basics Certificate**: Covered Windows, Linux, and mobile operating systems
+- **Azure AI Fundamentals**: Microsoft Certified 
 
 ## 🛠 Skills
 
