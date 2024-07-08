@@ -35,17 +35,7 @@ My journey in engineering has been driven by a passion for innovation and a knac
 - **Systems:** Windows, Linux
 - **Languages:** Fluent in English, French, Arabic
 
-## 🌟 Notable Projects
-
-### 1. **Implementation of an Occupancy Detection System**
-   - **Description:** Developed a system using a home sensor board to detect occupancy, enhancing smart home automation capabilities.
-   - **Technology Used:** Sensors, Embedded Systems
-
-### 2. **Windows: Task Automation with PowerShell**
-   - **Description:** A project focused on automating system maintenance tasks such as Disk Cleanup, System Updates, Backup, and Performance Monitoring using PowerShell scripting.
-   - **Skills Applied:** PowerShell scripting, Task Scheduling, System Administration
-
- 📫 How to reach me 
+ ## 📫 How to reach me 
 
 I'm always excited to connect with like-minded individuals and explore opportunities to collaborate. Feel free to reach out to me!
 
