@@ -50,6 +50,6 @@ My journey in engineering has been driven by a passion for innovation and a knac
 I'm always excited to connect with like-minded individuals and explore opportunities to collaborate. Feel free to reach out to me!
 
 - **Email:** ferchichiwafa2018@gmail.com
-- **LinkedIn:** [Wafa Ferchichi](https://www.linkedin.com/in/wafa-ferchichi)
+- **LinkedIn:** [Wafa Ferchichi](www.linkedin.com/in/wafa-ferchichii)
 
 Thanks for stopping by! 😊
